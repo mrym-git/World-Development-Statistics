@@ -24,7 +24,7 @@ Key takeaway: **Economic growth matters, but investments in healthcare, educatio
 ## Data
 
 * Source: [World Bank Data](https://data.worldbank.org/](https://www.gapminder.org/about/)
-* Features: country, year, gni_per_capita, life_expectancy, continent, predicted_life, residual, residual_z
+* Features: country, year, gni_per_capita, life_expectancy, continent, predicted_life
 
 ## Conclusions & Recommendations
 
