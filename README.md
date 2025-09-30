@@ -31,17 +31,7 @@ Key takeaway: **Economic growth matters, but investments in healthcare, educatio
 * Invest in healthcare and education to raise life expectancy.
 * Focus on reducing regional disparities, especially in Africa.
 * Learn from outliers to adapt successful policies.
-* Balance economic growth with social equity for sustainability.
-
----
-
-### 📌 Full README (Report version)
-
-⬅️ هذا اللي كتبته لك فوق، مع **Executive Summary (long)** + **Data Dictionary** + **Areas for Further Research** + **Sources** + **Visualizations**.
-
----
-
-تحبين أجهزلك النسخة **المختصرة Markdown جاهزة** تلصقينها في GitHub، والنسخة الطويلة تخليها عندك للتقرير النهائي؟
+* Balance economic growth with social equity for sustainability.؟
 
 
 
